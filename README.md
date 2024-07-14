@@ -46,7 +46,10 @@ Use the "mysql-connector-python" library in Python to connect to a MySQL databas
 **4. Dashboard creation:**
 
 Use the Streamlit and Plotly libraries in Python to create an interactive and visually appealing dashboard.
-Plotly's built-in geo map functions can be used to display the data on a map and Streamlit can be used to create a user-friendly interface with multiple dropdown options for users to select different facts and figures to display.
+Plotly's built-in plots would display the data on different plots. Streamlit can be used to create a user-friendly interface with multiple dropdown options for users to select different facts and figures to display. 
+* An interactive dashboard reports are generated and filtered through a Tableau.
+* View the dashboard using the link mentioned below.
+* Tableau link: https://public.tableau.com/app/profile/karthikeyan.m2180/vizzes
 
 **5. Data retrieval:**
 
