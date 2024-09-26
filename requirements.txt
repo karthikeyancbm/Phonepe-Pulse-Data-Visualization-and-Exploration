@@ -1,1 +1,7 @@
-c
+streamlit version==1.31.0
+pandas version==2.2.0
+mysql-connector-python version==8.3.0
+plotly version==5.19.0
+numpy version==1.26.3
+requests version==2.31.0
+streamlit-option-menu version==0.3.12
